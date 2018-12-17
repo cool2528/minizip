@@ -1,0 +1,13 @@
+!zlibstat.lib
+!zlibstatD.lib
+/Debug/
+/Release/
+*.sdf
+*.opensdf
+*.obj
+*.exe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.lastbuildstate
